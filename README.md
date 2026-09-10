@@ -23,4 +23,4 @@ In this problem we need to only call for the specified rows and only display som
 * `,['Model','mpg','cyl','hp','gear']` - Retains the only mentioned columns.
 * `selected_cars.shape` - Displays the number of rows and columns.
 
-To view the main python program for Programming Assignment 2, click this OLIVER_PA3.ipynb and download. Open in Jupyter Notebook, then run all cells.
+To view the main python program for Programming Assignment 2, click this (https://github.com/justinylerleeoliver/OLIVER_PA3/blob/99a085b98aae70a8dcd0aec60a010972dcba8488/OLIVER_PA3.ipynb) and download. Open in Jupyter Notebook, then run all cells.
